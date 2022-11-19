@@ -1,0 +1,127 @@
+{
+  "menu": [
+    {
+      "img": "img/tabs/1.png",
+      "altimg": "vegy",
+      "title": "Plan 'Usual'",
+      "descr": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugit nesciunt facere, sequi exercitationem praesentium ab cupiditate beatae debitis perspiciatis itaque quaerat id modi corporis delectus ratione nobis harum voluptatum in.",
+      "price": 10
+    },
+    {
+      "img": "img/tabs/2.jpg",
+      "altimg": "elite",
+      "title": "Plan 'Premium'",
+      "descr": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugit nesciunt facere, sequi exercitationem praesentium ab cupiditate beatae debitis perspiciatis itaque quaerat id modi corporis delectus ratione nobis harum voluptatum in.",
+      "price": 20
+    },
+    {
+      "img": "img/tabs/3.jpg",
+      "altimg": "post",
+      "title": "Plan 'VIP'",
+      "descr": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugit nesciunt facere, sequi exercitationem praesentium ab cupiditate beatae debitis perspiciatis itaque quaerat id modi corporis delectus ratione nobis harum voluptatum in.",
+      "price": 30
+    }
+  ],
+  "request": [
+    {
+      "name": "Botirjon",
+      "phone": "+998908190201",
+      "id": 1
+    },
+    {
+      "name": "Nodirbek Sattorov",
+      "phone": "+100007007007",
+      "id": 2
+    },
+    {
+      "name": "Alex",
+      "phone": "+77070000909",
+      "id": 3
+    },
+    {
+      "name": "Ervin Howell",
+      "phone": "+33030000303",
+      "id": 4
+    },
+    {
+      "name": "Charlis Oliveyra",
+      "phone": "+22020002002",
+      "id": 5
+    },
+    {
+      "name": "Islam Maxachev",
+      "phone": "+77077770707",
+      "id": 6
+    },
+    {
+      "name": "Ali Valiev",
+      "phone": "+998990009009",
+      "id": 7
+    },
+    {
+      "name": "Muhammad Salah",
+      "phone": "+15559001991",
+      "id": 8
+    },
+    {
+      "name": "Hamzat Chimayev",
+      "phone": "+77070007777",
+      "id": 9
+    },
+    {
+      "name": "Mike Tyson",
+      "phone": "+10001001001",
+      "id": 10
+    },
+    {
+      "name": "Leo Messi",
+      "phone": "+5550001010",
+      "id": 11
+    },
+    {
+      "name": "Cristiano Ronaldu",
+      "phone": "+5550000707",
+      "id": 12
+    },
+    {
+      "name": "Karim Benzema",
+      "phone": "+6660000909",
+      "id": 13
+    },
+    {
+      "name": "Neymar",
+      "phone": "+8880001010",
+      "id": 14
+    },
+    {
+      "name": "Klian Mbappe",
+      "phone": "+2220001010",
+      "id": 15
+    },
+    {
+      "name": "Erlic Holland",
+      "phone": "+3330000909",
+      "id": 16
+    },
+    {
+      "name": "Zinedin Zidan",
+      "phone": "+3330000505",
+      "id": 17
+    },
+    {
+      "name": "Ronaldo",
+      "phone": "+5550000909",
+      "id": 18
+    },
+    {
+      "name": "Ronaldinho",
+      "phone": "+15550001010",
+      "id": 19
+    },
+    {
+      "name": "Roberto Carlos",
+      "phone": "+15550000606",
+      "id": 20
+    }
+  ]
+}

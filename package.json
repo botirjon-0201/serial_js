@@ -1,0 +1,31 @@
+{
+  "name": "serial",
+  "version": "1.0.0",
+  "description": "JavaScript from zero to hero",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "html",
+    "serial"
+  ],
+  "browserList": [
+    "> 1%"
+  ],
+  "author": "Botirjon Umurzoqov",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.19.3",
+    "@babel/core": "^7.19.6",
+    "@babel/preset-env": "^7.19.4",
+    "json-server": "^0.17.0"
+  },
+  "dependencies": {
+    "babel-loader": "^9.0.0",
+    "core-js": "^3.26.0",
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  }
+}
